@@ -1,0 +1,23 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform.lock.hcl
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# temporary
+*.log
+
+# local credentials
+*.tfvars
+*.tfvars.json
+
+# Python
+__pycache__/
