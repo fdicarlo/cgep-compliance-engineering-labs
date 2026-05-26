@@ -1,0 +1,4 @@
+CONSTRAINT                            LIST_POLICY  BOOLEAN_POLICY  ETAG
+iam.disableServiceAccountKeyCreation  -            SET             COrI1tAGENjco/UC-
+storage.uniformBucketLevelAccess      -            SET             COrI1tAGEMDTiPIC-
+compute.requireOsLogin                -            SET             COrI1tAGEKi/uPMC-
