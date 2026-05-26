@@ -1,0 +1,15 @@
+=== Component Definition Validation ===
+VALID: Model /Users/fabrizio/Projects/CGE-P/oscal/component-definitions/compliant-s3-v1/component-definition.json passed the Validator to confirm the model passes all registered validation tests.
+
+=== Profile Validation ===
+VALID: Model /Users/fabrizio/Projects/CGE-P/oscal/profiles/cge-p-minimum/profile.json passed the Validator to confirm the model passes all registered validation tests.
+
+=== Assembled Profile ===
+Generated successfully:
+-rw-r--r--  1 fabrizio  staff  674 May 26 16:51 dist/profiles/cge-p-minimum.json
+
+=== JSON Validation ===
+JSON OK
+
+=== Trestle Version ===
+Trestle version v4.0.3 based on OSCAL version 1.2.1
